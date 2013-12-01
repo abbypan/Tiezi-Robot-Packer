@@ -1,4 +1,4 @@
-# ABSTRACT: 贴子打包引擎
+#ABSTRACT: 贴子打包引擎
 use strict;
 use warnings;
 package  Tiezi::Robot::Packer;
